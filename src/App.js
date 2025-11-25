@@ -38,7 +38,7 @@ export default function Portfolio() {
             <h3 className="font-semibold text-xl">Quick Profile</h3>
             <ul className="mt-4 space-y-3 text-gray-700 text-sm">
               <li><strong>Email:</strong> abanisikder312@gmail.com</li>
-              <li><strong>Phone:</strong> 0138551373</li>
+              <li><strong>Phone:</strong> 01938551373</li>
               <li><strong>Location:</strong> Pabna, Bangladesh</li>
               <li><strong>Education:</strong> B.Sc. CSE — PUST (2026)</li>
             </ul>
